@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Isaac Iniguez!  
 
-I’m a **Data Analyst** with a **B.S. in Business Administration – Computer Information Systems** from **Cal Poly Pomona**. I have a strong foundation in **SQL, Python, data visualization, and cloud platforms like AWS**, along with hands-on experience in **digital forensics, database design, and analytics**.  
+I’m a **Data Analyst** with a **B.S. in Business Administration – Computer Information Systems** from **Cal Poly Pomona**. I have a strong foundation in **SQL, Python and data visualization.  
 
 🔹 **What I Bring to the Table:**  
 ✔ **Data Analysis & Visualization** – Skilled in transforming raw data into meaningful insights using **SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and Excel**.  
