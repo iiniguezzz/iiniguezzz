@@ -17,6 +17,6 @@ I’m a **Data Analyst** with a **B.S. in Business Administration – Computer I
 
 📩 **Let's Chat:**  
 📧 https://www.linkedin.com/in/isaac-iniguez-2b3b6a253/ 
-🔗 [Your Portfolio (if available)]  
+🔗 Portfolio link --- https://isaaciniguez.carrd.co/
 
 ---
